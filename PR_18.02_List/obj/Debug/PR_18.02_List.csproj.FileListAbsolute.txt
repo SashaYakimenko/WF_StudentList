@@ -1,0 +1,17 @@
+C:\Users\sasaa\source\repos\PR_18.02_List\PR_18.02_List\bin\Debug\PR_18.02_List.exe.config
+C:\Users\sasaa\source\repos\PR_18.02_List\PR_18.02_List\bin\Debug\PR_18.02_List.exe
+C:\Users\sasaa\source\repos\PR_18.02_List\PR_18.02_List\bin\Debug\PR_18.02_List.pdb
+C:\Users\sasaa\source\repos\PR_18.02_List\PR_18.02_List\obj\Debug\PR_18.02_List.csproj.AssemblyReference.cache
+C:\Users\sasaa\source\repos\PR_18.02_List\PR_18.02_List\obj\Debug\PR_18._02_List.Form1.resources
+C:\Users\sasaa\source\repos\PR_18.02_List\PR_18.02_List\obj\Debug\PR_18._02_List.Properties.Resources.resources
+C:\Users\sasaa\source\repos\PR_18.02_List\PR_18.02_List\obj\Debug\PR_18.02_List.csproj.GenerateResource.cache
+C:\Users\sasaa\source\repos\PR_18.02_List\PR_18.02_List\obj\Debug\PR_18.02_List.csproj.CoreCompileInputs.cache
+C:\Users\sasaa\source\repos\PR_18.02_List\PR_18.02_List\obj\Debug\PR_18.02_List.exe
+C:\Users\sasaa\source\repos\PR_18.02_List\PR_18.02_List\obj\Debug\PR_18.02_List.pdb
+C:\Users\sasaa\source\repos\PR_18.02_List\PR_18.02_List\obj\Debug\PR_18._02_List.Form2.resources
+C:\Users\sasaa\source\repos\PR_18.02_List\PR_18.02_List\obj\Debug\PR_18._02_List.Form3.resources
+C:\Users\sasaa\source\repos\PR_18.02_List\PR_18.02_List\obj\Debug\PR_18._02_List.Form4.resources
+C:\Users\sasaa\source\repos\PR_18.02_List\PR_18.02_List\obj\Debug\PR_18._02_List.Form5.resources
+C:\Users\sasaa\source\repos\PR_18.02_List\PR_18.02_List\obj\Debug\PR_18._02_List.Form6.resources
+C:\Users\sasaa\source\repos\PR_18.02_List\PR_18.02_List\obj\Debug\PR_18.02_List.csproj.SuggestedBindingRedirects.cache
+C:\Users\sasaa\source\repos\PR_18.02_List\PR_18.02_List\obj\Debug\PR_18._02_List.Form7.resources
